@@ -1,0 +1,5 @@
+@import "bootstrap";
+
+.imgHover:hover {
+    filter: grayscale(0.5); -webkit-filter: grayscale(0.5);
+}
